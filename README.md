@@ -17,7 +17,7 @@ A **full-stack Rock-Paper-Scissors game** built with **Next.js (React)**, **Supa
 ![Game page](public/screenshot5.png)
 
 ### Match History Page
-![Match History page](public/screenshot5.png)
+![Match History page](public/screenshot4.png)
 
 ---
 ## Demo
